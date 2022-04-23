@@ -22,12 +22,15 @@ This project aims to analyse the Pewlett-Hackard database to identify employees 
 From the results, it is possible to notice that this scenario will impact 72458 roles, that will likely need to be filled soon. Below, there are the results of three queries, one with retirement-ready employees by department, the second with the mentorship-eligible by department, and the last with mentorship-eligible by title.
 
 - Retiring employees by department
+
     ![retiring_per_department](Resources/retiring_per_department.png)  
 
 - Mentorship-eligible by department
+
     ![mentorship_per_department](Resources/mentorship_per_department.png)
 
 - Mentorship-eligible by title
+
     ![mentorship_per_title](Resources/mentorship_per_title.png)
 
 Since the number of possible retirees surpasses by large the mentorship eligible, considering department and title, it is possible to affirm that there are enough mentors available.
