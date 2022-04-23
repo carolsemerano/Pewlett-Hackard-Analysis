@@ -12,7 +12,7 @@ ON e.emp_no = t.emp_no
 WHERE e.birth_date BETWEEN '1952-01-01' AND '1955-12-31'
 ORDER BY e.emp_no;
 
--- Use Dictinct with Orderby to remove duplicate rows and save into a new table
+-- Use Dictinct with Order by to remove duplicate rows and save into a new table
 SELECT DISTINCT ON (emp_no) 
 	emp_no, 
 	first_name, 
