@@ -5,7 +5,7 @@ This project aims to analyse the Pewlett-Hackard database to identify employees 
 
 ## Results
 
-- Pewlett-Hackard employees database was created based on the following ERD. The schema can be accessed [here](Resources/schema.sql).
+- Pewlett-Hackard employees database was created based on the following ERD. The script can be accessed [here](Resources/schema.sql) and the queries [here](Queries/Employee_Database_challenge.sql).
 
 ![EmployeeDB.png](Resources/EmployeeDB.png)
 
