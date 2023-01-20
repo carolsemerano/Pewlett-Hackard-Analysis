@@ -1,4 +1,4 @@
-# Pewlett-Hackard Analysis.
+# Pewlett-Hackard Analysis
 
 ## Overview 
 This project aims to analyse the Pewlett-Hackard database to identify employees close to retirement by title. Also, create a pool of employees eligible for a mentorship program as part of a succession plan strategy. This analysis was made using Postgre SQL. Results from each query were exported to CSV files.
